@@ -91,7 +91,7 @@ class DroneAction():
 
         i = 0
         while not i == 3:
-            self.up_drone(0.8)
+            self.up_drone(1)
             time.sleep(0.35)
             i += 1
 
